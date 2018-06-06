@@ -6,4 +6,4 @@ Since getting funded on Kickstarter requires meeting or exceeding the project's 
 Tasks:
 •	modifying and analyzing the data of four thousand past Kickstarter projects to uncover some of the market trends.
 •	Create a line chart which graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
-•	Create a report in Microsoft Word, forecasting the trend out of the excel data. 
+•	Create Report of KickStarter Campaigns.docx in Microsoft Word, forecasting the trend out of the excel data. 
